@@ -18,5 +18,5 @@ function currentLine(katzDeliLine) {
     return "The line is currently empty."
   }
   else
-    
+    return `The line is currently: ${katzDeliLine}`
 }
