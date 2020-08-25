@@ -4,5 +4,8 @@ function takeANumber(katzDeliLine, name) {
 }
 function nowServing(katzDeliLine) {
   let i = 0
-  while (i < katzDeliLine.length)
+  while (i < katzDeliLine.length) {
+    i++;
+  }
+  if 
 }
