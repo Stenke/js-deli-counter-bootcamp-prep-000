@@ -22,8 +22,7 @@ function currentLine(katzDeliLine) {
   line = line.slice(0, -2)
   if (katzDeliLine.length === 0) {
     return `The line is currently: ${line}`
-  }
-  else
+  }else
     return `The line is currently empty.`
   }
 }
